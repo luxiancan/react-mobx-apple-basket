@@ -28,7 +28,7 @@ class AppleBasket extends Component {
         const { notEatenQuantity, notEatenWeight, EatenQuantity, EatenWeight } = status;
         return (
             <div className="appleBusket">
-                <div className="title">苹果篮子</div>
+                <div className="title">苹果篮子-卢显灿构建</div>
 
                 <div className="stats">
                     <div className="section">
